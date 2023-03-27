@@ -1,0 +1,22 @@
+[08-Aug-2016 13:54:54 Australia/Sydney] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/satscom/public_html/crmdev/inc/functions.php on line 2262
+[08-Aug-2016 13:54:54 Australia/Sydney] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/satscom/public_html/crmdev/inc/job_functions.php on line 455
+[08-Aug-2016 13:55:00 Australia/Sydney] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/satscom/public_html/crmdev/inc/functions.php on line 2262
+[08-Aug-2016 13:55:00 Australia/Sydney] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/satscom/public_html/crmdev/inc/job_functions.php on line 455
+[08-Aug-2016 13:55:03 Australia/Sydney] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/satscom/public_html/crmdev/inc/functions.php on line 2262
+[08-Aug-2016 13:55:03 Australia/Sydney] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/satscom/public_html/crmdev/inc/job_functions.php on line 455
+[08-Aug-2016 13:59:45 Australia/Sydney] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/satscom/public_html/crmdev/inc/functions.php on line 2262
+[08-Aug-2016 13:59:45 Australia/Sydney] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/satscom/public_html/crmdev/inc/job_functions.php on line 455
+[08-Aug-2016 13:59:46 Australia/Sydney] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/satscom/public_html/crmdev/inc/functions.php on line 2262
+[08-Aug-2016 13:59:46 Australia/Sydney] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/satscom/public_html/crmdev/inc/job_functions.php on line 455
+[08-Aug-2016 13:59:52 Australia/Sydney] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/satscom/public_html/crmdev/inc/functions.php on line 2262
+[08-Aug-2016 13:59:52 Australia/Sydney] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/satscom/public_html/crmdev/inc/job_functions.php on line 455
+[08-Aug-2016 14:01:32 Australia/Sydney] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/satscom/public_html/crmdev/inc/functions.php on line 2262
+[08-Aug-2016 14:01:32 Australia/Sydney] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/satscom/public_html/crmdev/inc/job_functions.php on line 455
+[08-Aug-2016 15:38:27 Australia/Sydney] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/satscom/public_html/crmdev/inc/job_functions.php on line 455
+[08-Aug-2016 15:38:39 Australia/Sydney] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/satscom/public_html/crmdev/inc/job_functions.php on line 455
+[08-Aug-2016 15:38:45 Australia/Sydney] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/satscom/public_html/crmdev/inc/job_functions.php on line 455
+[08-Aug-2016 15:39:25 Australia/Sydney] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/satscom/public_html/crmdev/inc/job_functions.php on line 455
+[23-Nov-2016 14:01:50 Australia/Sydney] PHP Fatal error:  Cannot redeclare getcheckdigit() in /home/satscom/public_html/crmdev/inc/functions.php on line 4205
+[23-Nov-2016 15:14:07 Australia/Sydney] PHP Warning:  utf8_encode() expects exactly 1 parameter, 0 given in /home/satscom/public_html/crmdev/inc/pdf_invoice_template.php on line 50
+[05-Apr-2017 15:14:05 Australia/Sydney] PHP Warning:  Missing argument 1 for getCountryText(), called in /home/satscom/public_html/crmdev/inc/job_functions.php on line 412 and defined in /home/satscom/public_html/crmdev/inc/job_functions.php on line 472
+[05-Apr-2017 15:14:30 Australia/Sydney] PHP Warning:  Missing argument 1 for getCountryText(), called in /home/satscom/public_html/crmdev/inc/job_functions.php on line 412 and defined in /home/satscom/public_html/crmdev/inc/job_functions.php on line 472

@@ -1,0 +1,43 @@
+.agen_pay_det_tbl tr td{
+	border:none;
+	padding-left:0;
+}
+.agen_pay_det_tbl .remove_link{
+    color: red;
+}
+.agen_pay_det_tbl .remove_col{
+    width: 10%;
+}
+.agen_pay_a_tbl td,
+.agen_pay_j_tbl td{
+    border-top: 1px solid #dee2e6 !important;
+    vertical-align: middle;
+}
+.agen_pay_det_fb_div{
+    width:500px;
+}
+.agency{
+    width: 250px;
+    height: 38px;
+}
+.agency:focus{   
+    width: auto; 
+    height: 300px;
+}
+.action_col{
+    width: 10%;
+    text-align: center;
+}
+.del_strike{
+    text-decoration: line-through;
+    opacity: 0.5;
+}
+.action_td a{
+    top: 0px;
+}
+.rev_inv_transfer_div{
+    display: none;
+}
+.agen_pay_partial_refund_btn{
+    margin-left: 10px;
+}
